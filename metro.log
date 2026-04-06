@@ -25,3 +25,29 @@ Starting dev server on http://localhost:8081
               Fast - Scalable - Integrated
 
 
+ INFO  Dev server ready. Press Ctrl+C to exit.
+ INFO  Key commands available:
+
+   r  - reload app(s)
+   d  - open Dev Menu
+   j  - open DevTools
+
+ BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 0% (0/1)
+ BUNDLE  ./index.js ▓▓▓░░░░░░░░░░░░░ 23% (288/594)
+ BUNDLE  ./index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99% (1100/1109)
+ BUNDLE  ./index.js 
+ INFO  [1m[7m💡 JavaScript logs have moved![22m They can now be viewed in React Native DevTools. Tip: Type [1mj[22m in the terminal to open.[27m
+ BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 0% (0/1)
+ BUNDLE  ./index.js 
+ BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 0% (0/1)
+ BUNDLE  ./index.js 
+ INFO  Launching DevTools...
+C:\Users\david\AppData\Local\dotslash\e5\5ab0c1b974392ca91bf8e677cd5e3c7e687bcd\React Native DevTools-win32-x64\React Native DevTools.exe: bad option: --frontendUrl=http://localhost:8081/debugger-frontend/rn_fusebox.html?ws=%2Finspector%2Fdebug%3Fdevice%3D9003101cc7e37850602678484c1d15dbd1015715%26page%3D1&sources.hide_add_folder=true&appId=com.spamsms.app
+C:\Users\david\AppData\Local\dotslash\e5\5ab0c1b974392ca91bf8e677cd5e3c7e687bcd\React Native DevTools-win32-x64\React Native DevTools.exe: bad option: --windowKey=b4bfb256fb29fa0c860e2c3fa20905076691c30f7a58032803badc9b16978002
+ INFO  Launching DevTools...
+C:\Users\david\AppData\Local\dotslash\e5\5ab0c1b974392ca91bf8e677cd5e3c7e687bcd\React Native DevTools-win32-x64\React Native DevTools.exe: bad option: --frontendUrl=http://localhost:8081/debugger-frontend/rn_fusebox.html?ws=%2Finspector%2Fdebug%3Fdevice%3D9003101cc7e37850602678484c1d15dbd1015715%26page%3D1&sources.hide_add_folder=true&appId=com.spamsms.app
+C:\Users\david\AppData\Local\dotslash\e5\5ab0c1b974392ca91bf8e677cd5e3c7e687bcd\React Native DevTools-win32-x64\React Native DevTools.exe: bad option: --windowKey=b4bfb256fb29fa0c860e2c3fa20905076691c30f7a58032803badc9b16978002
+ BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 0% (0/1)
+ BUNDLE  ./index.js 
+ BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 0% (0/1)
+ BUNDLE  ./index.js 
