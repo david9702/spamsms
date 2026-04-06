@@ -51,3 +51,7 @@ C:\Users\david\AppData\Local\dotslash\e5\5ab0c1b974392ca91bf8e677cd5e3c7e687bcd\
  BUNDLE  ./index.js 
  BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 0% (0/1)
  BUNDLE  ./index.js 
+ BUNDLE  ./index.js ░░░░░░░░░░░░░░░░ 0% (0/1)
+ BUNDLE  ./index.js 
+ ERROR  [timeout] connection terminated with Device for app='com.spamsms.app' on device='SM-S938B - 16 - API 36' after not responding for 60 seconds.
+^C^C
